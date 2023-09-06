@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/接口测试/yishi_api/yishi_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/易识测试用例" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/易识测试用例/jkpark" vcs="Git" />
+  </component>
+</project>
